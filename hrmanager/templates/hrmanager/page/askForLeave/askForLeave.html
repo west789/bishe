@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>请假审批</title>
+		<link rel="stylesheet" href="../../layui2/css/layui.css" media="all" />
+	</head>
+
+	<body>
+		<blockquote class="layui-elem-quote news_search">
+			<div class="layui-inline">
+				<a class="layui-btn layui-btn-normal newsAdd_btn">编辑</a>
+			</div>
+		</blockquote>
+		<form class="layui-form" action="">
+			<div class="layui-form-item">
+				<div class="layui-inline">
+					<label class="layui-form-label">工号</label>
+					<div class="layui-input-inline">
+						<input type="tel" name="phone" autocomplete="off" class="layui-input">
+					</div>
+				</div>
+				<div class="layui-inline">
+					<label class="layui-form-label">姓名</label>
+					<div class="layui-input-inline">
+						<input type="text" name="email" autocomplete="off" class="layui-input">
+					</div>
+				</div>
+			</div>
+			<div class="layui-form-item">
+				<div class="layui-inline">
+					<label class="layui-form-label">请假时间</label>
+					<div class="layui-input-inline">
+						<input type="text" class="layui-input" id="dateleave" placeholder=" 请输入日期 ">
+					</div>
+				</div>
+
+			</div>
+			<div class="layui-form-item">
+				<div class="layui-inline">
+					<label class="layui-form-label">请假原因</label>
+					<div class="layui-input-block">
+						<textarea class="layui-textarea" name="content" lay-verify="content" id="news_content"></textarea>
+					</div>
+				</div>
+			</div>
+			<div class="layui-input-block">
+				<button class="layui-btn" lay-submit lay-filter="formDemo">立即提交</button>
+				<button type="reset" class="layui-btn layui-btn-primary">重置</button>
+			</div>
+		</form>
+	</body>
+	<script type="text/javascript" src="../../layui2/layui.js"></script>
+	<script type="text/javascript" src="askForLeave.js"></script>
+
+</html>

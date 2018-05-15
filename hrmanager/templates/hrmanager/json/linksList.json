@@ -1,0 +1,22 @@
+[{
+    "linksId" : "1",
+    "linksName" : "百度一下，你就知道",
+    "linksUrl" : "http://www.baidu.com",
+    "masterEmail" : "xianxin@163.com",
+    "linksTime" : "2018-04-08",
+    "showAddress" : "首页"
+},{
+    "linksId" : "2",
+    "linksName" : "谷歌搜索",
+    "linksUrl" : "http://www.google.com.hk",
+    "masterEmail" : "xianxin@163.com",
+    "linksTime" : "2018-04-08",
+    "showAddress" : "子页"
+},{
+    "linksId" : "3",
+    "linksName" : "庞绍良github地址",
+    "linksUrl" : "https://github.com/west789",
+    "masterEmail" : "xianxin@163.com",
+    "linksTime" : "2018-04-08",
+    "showAddress" : "子页"
+}]

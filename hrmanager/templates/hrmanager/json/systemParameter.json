@@ -1,0 +1,14 @@
+{
+    "cmsName": "人事考勤工资管理系统",
+    "version": "1.0.0",
+    "author": "庞绍良",
+    "homePage": "page/index.html",
+    "server": "windows",
+    "dataBase": "mysql/hrmanager",
+    "maxUpload": "2M",
+    "userRights": "总管理员",
+    "description": "实现考勤流程的智能化管理",
+    "powerby": "copyright @2017 PSL",
+    "record": "京ICP备14040xxx号-1",
+    "keywords": "PSL，人事，考勤"
+}
