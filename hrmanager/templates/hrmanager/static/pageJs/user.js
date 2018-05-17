@@ -3,7 +3,7 @@ var $form;
 var form;
 var $;
 layui.config({
-	base : "../../js/"
+	base : "/static/js/"
 }).use(['form','layer','upload','laydate'],function(){
 	form = layui.form();
 	var layer = parent.layer === undefined ? layui.layer : parent.layer;
@@ -12,7 +12,7 @@ layui.config({
 		laydate = layui.laydate;
         loadProvince();
         layui.upload({
-        	url : "../../json/userface.json",
+        	url : "/static/json/userface.json",
         	success: function(res){
         		var num = parseInt(4*Math.random());  //生成0-4的随机数
         		//随机显示一个头像信息

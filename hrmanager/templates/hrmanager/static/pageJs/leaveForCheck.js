@@ -5,7 +5,7 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 	table.render({
 		elem: '#tbl_attendCheck',
 		height: 500,
-		url: '../../json/check.json', //数据接口
+		url: '/static/json/check.json', //数据接口
 		page: true, //开启分页
 		limit: 20,
 		skin: 'line', //行边框风格

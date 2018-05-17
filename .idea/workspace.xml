@@ -1,308 +1,302 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed253bae-ceaf-4ed8-b67a-03e35d67d69a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/font_eolqem241z66flxr.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/images.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/message.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/news.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/user.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/adm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/alipay.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/avtar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/bg1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/face.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/key.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/login.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/pass.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/wechat.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/bodyTab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/leftNav.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/nav.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/check.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/images.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/linksList.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/message.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/newsList.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/systemParameter.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/userface.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/usersList.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/layui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/layui.mobile.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/code.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/laydate/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/laydate/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/laydate/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/dest/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/element.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/layedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/layim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/laypage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/laytpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/mobile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/tree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/upload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/layui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/layui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/layui.mobile.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/code.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/laydate/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/element.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/layedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/laypage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/laytpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/mobile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/tree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/upload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/layui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/img/images.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/img/images.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/messageReply.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/newsList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/addUser.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/addUser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/address.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/allUsers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/allUsers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/changePwd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/user.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/userInfo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/views.py" />
+    <list default="true" id="ed253bae-ceaf-4ed8-b67a-03e35d67d69a" name="Default" comment="增加前端页面">
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/0001_initial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/0002_auto_20180517_2054.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/0003_auto_20180517_2132.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/urls.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/bishe.iml" afterPath="$PROJECT_DIR$/.idea/bishe.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bishe/__init__.py" afterPath="$PROJECT_DIR$/bishe/__init__.py" />
       <change beforePath="$PROJECT_DIR$/bishe/settings.py" afterPath="$PROJECT_DIR$/bishe/settings.py" />
+      <change beforePath="$PROJECT_DIR$/bishe/urls.py" afterPath="$PROJECT_DIR$/bishe/urls.py" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/models.py" afterPath="$PROJECT_DIR$/hrmanager/models.py" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/font_eolqem241z66flxr.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/font_eolqem241z66flxr.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/images.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/images.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/login.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/login.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/main.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/message.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/message.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/news.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/news.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/css/user.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/user.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/favicon.ico" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/adm.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/adm.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/alipay.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/alipay.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/avtar.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/avtar.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/bg1.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/bg1.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/close.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/close.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/face.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/face.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/key.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/key.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/login.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/login.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/pass.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/pass.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface1.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/userface1.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface2.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/userface2.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface3.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/userface3.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface4.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/userface4.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/userface5.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/userface5.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/images/wechat.jpg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/wechat.jpg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/bodyTab.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/bodyTab.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/index.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/index.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/leftNav.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/leftNav.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/main.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/js/nav.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/check.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/check.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/images.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/images.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/linksList.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/linksList.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/message.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/message.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/newsList.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/newsList.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/systemParameter.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/systemParameter.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/userface.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/userface.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/json/usersList.json" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/usersList.json" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/layui.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/layui.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/layui.mobile.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/layui.mobile.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/code.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/code.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/laydate/default/laydate.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/laydate/default/laydate.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/laydate/icon.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/laydate/icon.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/laydate/laydate.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/laydate/laydate.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/icon-ext.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/layer/default/icon-ext.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/icon.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/layer/default/icon.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/layer.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/layer/default/layer.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/loading-0.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/layer/default/loading-0.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/loading-1.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/layer/default/loading-1.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/css/modules/layer/default/loading-2.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/css/modules/layer/default/loading-2.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.eot" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/font/iconfont.eot" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.svg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/font/iconfont.svg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.ttf" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/font/iconfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/font/iconfont.woff" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/font/iconfont.woff" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/0.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/0.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/1.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/1.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/10.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/10.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/11.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/11.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/12.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/12.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/13.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/13.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/14.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/14.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/15.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/15.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/16.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/16.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/17.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/17.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/18.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/18.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/19.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/19.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/2.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/2.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/20.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/20.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/21.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/21.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/22.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/22.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/23.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/23.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/24.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/24.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/25.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/25.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/26.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/26.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/27.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/27.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/28.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/28.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/29.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/29.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/3.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/3.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/30.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/30.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/31.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/31.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/32.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/32.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/33.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/33.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/34.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/34.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/35.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/35.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/36.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/36.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/37.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/37.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/38.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/38.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/39.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/39.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/4.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/4.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/40.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/40.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/41.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/41.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/42.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/42.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/43.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/43.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/44.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/44.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/45.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/45.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/46.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/46.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/47.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/47.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/48.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/48.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/49.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/49.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/5.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/5.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/50.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/50.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/51.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/51.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/52.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/52.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/53.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/53.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/54.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/54.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/55.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/55.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/56.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/56.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/57.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/57.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/58.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/58.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/59.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/59.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/6.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/6.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/60.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/60.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/61.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/61.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/62.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/62.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/63.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/63.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/64.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/64.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/65.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/65.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/66.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/66.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/67.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/67.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/68.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/68.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/69.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/69.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/7.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/7.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/70.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/70.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/71.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/71.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/8.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/8.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/images/face/9.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/images/face/9.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/dest/layui.all.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/dest/layui.all.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/carousel.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/carousel.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/code.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/code.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/element.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/element.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/flow.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/flow.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/form.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/form.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/jquery.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/jquery.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/laydate.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/laydate.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/layedit.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/layedit.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/layer.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/layer.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/layim.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/layim.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/laypage.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/laypage.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/laytpl.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/laytpl.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/mobile.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/mobile.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/table.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/table.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/tree.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/tree.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/upload.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/upload.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/lay/modules/util.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/lay/modules/util.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/layui.all.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/layui.all.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui/layui.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui/layui.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/layui.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/layui.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/layui.mobile.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/layui.mobile.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/code.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/code.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/laydate/default/laydate.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/laydate/default/laydate.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/icon-ext.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/layer/default/icon-ext.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/icon.png" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/layer/default/icon.png" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/layer.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/layer/default/layer.css" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/loading-0.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/layer/default/loading-0.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/loading-1.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/layer/default/loading-1.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/css/modules/layer/default/loading-2.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/css/modules/layer/default/loading-2.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.eot" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/font/iconfont.eot" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.svg" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/font/iconfont.svg" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.ttf" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/font/iconfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/font/iconfont.woff" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/font/iconfont.woff" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/0.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/0.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/1.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/1.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/10.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/10.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/11.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/11.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/12.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/12.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/13.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/13.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/14.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/14.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/15.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/15.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/16.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/16.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/17.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/17.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/18.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/18.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/19.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/19.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/2.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/2.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/20.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/20.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/21.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/21.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/22.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/22.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/23.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/23.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/24.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/24.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/25.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/25.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/26.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/26.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/27.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/27.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/28.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/28.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/29.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/29.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/3.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/3.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/30.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/30.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/31.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/31.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/32.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/32.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/33.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/33.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/34.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/34.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/35.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/35.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/36.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/36.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/37.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/37.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/38.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/38.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/39.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/39.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/4.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/4.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/40.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/40.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/41.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/41.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/42.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/42.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/43.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/43.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/44.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/44.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/45.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/45.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/46.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/46.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/47.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/47.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/48.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/48.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/49.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/49.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/5.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/5.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/50.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/50.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/51.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/51.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/52.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/52.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/53.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/53.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/54.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/54.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/55.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/55.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/56.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/56.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/57.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/57.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/58.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/58.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/59.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/59.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/6.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/6.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/60.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/60.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/61.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/61.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/62.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/62.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/63.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/63.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/64.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/64.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/65.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/65.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/66.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/66.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/67.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/67.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/68.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/68.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/69.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/69.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/7.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/7.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/70.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/70.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/71.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/71.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/8.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/8.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/images/face/9.gif" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/images/face/9.gif" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/carousel.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/carousel.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/code.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/code.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/element.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/element.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/flow.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/flow.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/form.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/form.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/jquery.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/jquery.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/laydate.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/laydate.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/layedit.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/layedit.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/layer.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/layer.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/laypage.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/laypage.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/laytpl.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/laytpl.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/mobile.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/mobile.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/table.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/table.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/tree.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/tree.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/upload.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/upload.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/lay/modules/util.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/lay/modules/util.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/layui.all.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/layui.all.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/layui2/layui.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/layui2/layui.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/abnormalOfAttend.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/img/images.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/img/images.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksAdd.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/message.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/messageReply.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/messageReply.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsAdd.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsList.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/systemParameter.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/address.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/address.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/allUsers.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/allUsers.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/changePwd.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/changePwd.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/user.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/user.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/userInfo.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/userInfo.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/views.py" afterPath="$PROJECT_DIR$/hrmanager/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -316,70 +310,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="245">
+              <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
               <folding>
-                <element signature="e#22#31#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bishe/__init__.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            <state relative-caret-position="468">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pip-selfcheck.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+            <state relative-caret-position="1680">
+              <caret line="48" column="188" lean-forward="false" selection-start-line="48" selection-start-column="188" selection-end-line="48" selection-end-column="188" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bishe/settings.py">
+      <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            <state relative-caret-position="280">
+              <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/css/main.css">
+      <file leaf-file-name="bishe.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/bishe.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -388,17 +394,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pyvenv.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/jquery.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="197">
+              <caret line="3" column="13164" lean-forward="false" selection-start-line="3" selection-start-column="13164" selection-end-line="3" selection-end-column="13164" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leftNav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/leftNav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>Debug</find>
+      <find>Tab</find>
+      <find>layui.css</find>
+      <find>正常出勤</find>
+      <find>js/</find>
+      <find>appendChild</find>
+      <find>bodyTab</find>
+      <find>personInfo.html</find>
+      <find>family</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -407,7 +450,43 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bishe/__init__.py" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js" />
+        <option value="$PROJECT_DIR$/bishe/urls.py" />
+        <option value="$PROJECT_DIR$/templates/hrmanager/index.html" />
         <option value="$PROJECT_DIR$/bishe/settings.py" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/index.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/messageReply.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/changePwd.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/message.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsAdd.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsList.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/systemParameter.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/user.js" />
+        <option value="$PROJECT_DIR$/hrmanager/models.py" />
+        <option value="$PROJECT_DIR$/hrmanager/views.py" />
+        <option value="$PROJECT_DIR$/hrmanager/urls.py" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/login.css" />
       </list>
     </option>
   </component>
@@ -440,7 +519,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -458,16 +536,11 @@
               <item name="bishe" type="462c0819:PsiDirectoryNode" />
               <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,7 +551,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DjangoProject\bishe" />
+      <recent name="F:\DjangoProject\bishe\template" />
       <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static\pageJs" />
+      <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static\images" />
+      <recent name="F:\DjangoProject\bishe\templates\hrmanager\static" />
+      <recent name="F:\DjangoProject\bishe\template" />
+      <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -539,21 +621,30 @@
       <option name="project" value="LOCAL" />
       <updated>1526386506308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加前端页面">
+      <created>1526390260629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526390260629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20093857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21843003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -563,7 +654,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -575,91 +665,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="增加前端页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加前端页面" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#629#661#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/template/hrFollow/js/nav.js" />
+    <entry file="file://$PROJECT_DIR$/template/hrFollow/index.html" />
+    <entry file="file://$PROJECT_DIR$/templates/hrmanager/static/js/nav.js" />
     <entry file="file://$PROJECT_DIR$/hrmanager/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -668,7 +686,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/views.py">
+    <entry file="file://$PROJECT_DIR$/templates/hrmanager/index.html" />
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <marker date="1526480722419" expanded="true" signature="3511:3519" ph="..." />
+            <marker date="1526480722419" expanded="true" signature="4235:4283" ph="..." />
+            <marker date="1526480722419" expanded="true" signature="4372:4420" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishe/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishe/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4117">
+          <caret line="161" column="10" lean-forward="true" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/img/images.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -676,7 +752,325 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/css/main.css">
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="61" column="39" lean-forward="false" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksAdd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="63" column="40" lean-forward="true" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/message/messageReply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsAdd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="78" column="47" lean-forward="false" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/news/newsList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2245">
+          <caret line="70" column="47" lean-forward="false" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/systemParameter/systemParameter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="98" column="73" lean-forward="true" selection-start-line="98" selection-start-column="73" selection-end-line="98" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/userInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/changePwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="47" lean-forward="false" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/abnormalOfAttend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/address.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksAdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1352">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <marker date="1526529511874" expanded="true" signature="1614:1645" ph="..." />
+            <marker date="1526529511874" expanded="true" signature="1908:1939" ph="..." />
+            <marker date="1526529511874" expanded="true" signature="6347:6361" ph="..." />
+            <marker date="1526529511874" expanded="true" signature="6827:6835" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4187">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <marker date="1526529511749" expanded="true" signature="2193:2201" ph="..." />
+            <marker date="1526529511749" expanded="true" signature="2311:2319" ph="..." />
+            <marker date="1526529511749" expanded="true" signature="2650:2658" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsAdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10190">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <marker date="1526529511848" expanded="true" signature="2066:2097" ph="..." />
+            <marker date="1526529511848" expanded="true" signature="2360:2391" ph="..." />
+            <marker date="1526529511848" expanded="true" signature="8017:8025" ph="..." />
+            <marker date="1526529511848" expanded="true" signature="9119:9129" ph="..." />
+            <marker date="1526529511848" expanded="true" signature="9693:9701" ph="..." />
+            <marker date="1526529511848" expanded="true" signature="9836:9844" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/systemParameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/leftNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="3" column="13164" lean-forward="false" selection-start-line="3" selection-start-column="13164" selection-end-line="3" selection-end-column="13164" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="48" column="188" lean-forward="false" selection-start-line="48" selection-start-column="188" selection-end-line="48" selection-end-column="188" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/bishe.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />

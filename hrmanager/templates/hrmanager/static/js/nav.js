@@ -7,13 +7,13 @@ var navs = [{
 		{
 			"title" : "查看信息",
 			"icon" : "&#xe631;",
-			"href" : "page/personInfo/personInfo.html",
+			"href" : "/hrmanager/page/personInfo/",
 			"spread" : false
 		},
 		{
 			"title" : "修改密码",
 			"icon" : "&#xe631;",
-			"href" : "page/userInfo/changePass.html",
+			"href" : "/hrmanager/page/changePass/",
 			"spread" : false
 		}
 	]
@@ -26,25 +26,25 @@ var navs = [{
 		{
 			"title" : "考勤查询",
 			"icon" : "&#xe631;",
-			"href" : "page/attendCheck/attendCheck.html",
+			"href" : "/hrmanager/page/attendCheck/",
 			"spread" : false
 		},
 		{
 			"title" : "请假审批",
 			"icon" : "&#xe631;",
-			"href" : "page/askForLeave/askForLeave.html",
+			"href" : "/hrmanager/page/askForLeave/",
 			"spread" : false
 		},
 		{
 			"title" : "考勤异常审批",
 			"icon" : "&#xe631;",
-			"href" : "page/abnormalOfAttend/abnormalOfAttend.html",
+			"href" : "/hrmanager/page/abnormalOfAttend/",
 			"spread" : false
 		},
 		{
 			"title" : "请假查询",
 			"icon" : "&#xe631;",
-			"href" : "page/leaveForCheck/leaveForCheck.html",
+			"href" : "/hrmanager/page/leaveForCheck/",
 			"spread" : false
 		}
 	]
@@ -88,20 +88,20 @@ var navs = [{
 		{
 			"title" : "工资统计",
 			"icon" : "&#xe62c;",
-			"href" : "page/personInfo/personInfo.html",
+			"href" : "/hrmanager/page/personInfo/",
 			"spread" : false
 		},
 		{
 			"title" : "生成报表",
 			"icon" : "&#xe631;",
-			"href" : "page/userInfo/changePass.html",
+			"href" : "/hrmanager/page/changePass/",
 			"spread" : false
 		}
 	]
 },{
 	"title" : "考勤统计",
 	"icon" : "&#xe62c;",
-	"href" : "page/news/newsList.html",
+	"href" : "/hrmanager/page/newsList/",
 	"spread" : false
 },
 //{
@@ -113,17 +113,17 @@ var navs = [{
 {
 	"title" : "友情链接",
 	"icon" : "&#xe64d;",
-	"href" : "page/links/linksList.html",
+	"href" : "/hrmanager/page/linksList/",
 	"spread" : false
 },{
 	"title" : "404页面",
 	"icon" : "&#xe61c;",
-	"href" : "page/404.html",
+	"href" : "/hrmanager/page/error/",
 	"spread" : false
 },{
 	"title" : "系统基本参数",
 	"icon" : "&#xe631;",
-	"href" : "page/systemParameter/systemParameter.html",
+	"href" : "/hrmanager/page/systemParameter/",
 	"spread" : false
 }
 //,{

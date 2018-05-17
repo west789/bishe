@@ -1,5 +1,5 @@
 layui.config({
-	base : "js/"
+	base : "/static/js/"
 }).use(['form','layer','jquery','laypage'],function(){
 	var form = layui.form(),
 		layer = parent.layer === undefined ? layui.layer : parent.layer,
@@ -8,7 +8,7 @@ layui.config({
 
 	//加载页面数据
 	var newsData = '';
-	$.get("../../json/newsList.json", function(data){
+	$.get("/static/json/newsList.json", function(data){
 		var newArray = [];
 		//单击首页“待审核文章”加载的信息
 		if($(".top_tab li.layui-this cite",parent.document).text() == "待审核文章"){

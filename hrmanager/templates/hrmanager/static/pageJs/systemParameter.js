@@ -1,5 +1,5 @@
 	layui.config({
-	base : "js/"
+	base : "/static/js/"
 }).use(['form','layer','jquery'],function(){
 	var form = layui.form(),
 		layer = parent.layer === undefined ? layui.layer : parent.layer,
@@ -37,7 +37,7 @@
  		fillData(data);
  	}else{
  		$.ajax({
-			url : "../../json/systemParameter.json",
+			url : "/static/json/systemParameter.json",
 			type : "get",
 			dataType : "json",
 			success : function(data){
