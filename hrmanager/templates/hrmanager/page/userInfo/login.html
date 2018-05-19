@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>	
 <head>
-<title>Login</title>
+<title>登录页面</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <meta name="keywords" content="Flat Dark Web Login Form Responsive Templates, Iphone Widget Template, Smartphone login forms,Login form, Widget Template, Responsive Templates, a Ipad 404 Templates, Flat Responsive Templates" />
 <link href="/static/css/login.css" rel='stylesheet' type='text/css' />
 <!--webfonts-->
-<link href='http://fonts.useso.com/css?family=PT+Sans:400,700,400italic,700italic|Oswald:400,300,700' rel='stylesheet' type='text/css'>
-<link href='http://fonts.useso.com/css?family=Exo+2' rel='stylesheet' type='text/css'>
+{#<link href='http://fonts.useso.com/css?family=PT+Sans:400,700,400italic,700italic|Oswald:400,300,700' rel='stylesheet' type='text/css'>#}
+{#<link href='http://fonts.useso.com/css?family=Exo+2' rel='stylesheet' type='text/css'>#}
 <!--//webfonts-->
 <script src="/static/js/jquery.min.js"></script>
 </head>
@@ -35,15 +35,22 @@
 	<div class="avtar">
 		<img src="/static/images/avtar.png" />
 	</div>
-			<form>
-					<input type="text" class="text" value="" placeholder="请输入用户名"   >
-						
-					<input type="password" value="" placeholder="请输入密码" >
-						
+			<form action="/hrmanager/login_handle/"  method="post">
+                {% csrf_token %}
+                <input type="text" name="userid" class="text" value="" placeholder="请输入用户名"   >
+                <input type="password" name="password" value="" placeholder="请输入密码" >
+                <div class="signin">
+                    <input type="submit" value="登录" >
+                </div>
 			</form>
-	<div class="signin">
-		<input type="submit" value="登录" >
-	</div>
+{#            <form method="post" action="/hrmanager/uploadpic/" enctype="multipart/form-data">#}
+{#                {% csrf_token %}#}
+{#                <div>#}
+{#                    <input type="file" name="pic">#}
+{#                    <input type="submit" value="上传" >#}
+{#            </div>#}
+{#            </form>#}
+
 </div>
  <div class="copy-rights">
 					<p>Copyright &copy; 2018. <a href="http://www.github.com/westlife" target="_blank" title="庞绍良的github">GitHub</a> - Collect from <a href="" title="网页模板" target="_blank"></a></p>

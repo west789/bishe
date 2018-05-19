@@ -15,8 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-
+import xadmin
 urlpatterns = [
-    path('hrmanager/', include('hrmanager.urls')),
-    path('admin/', admin.site.urls),
+    path('hrmanager/', include('hrmanager.urls', namespace='main')),
+    #path('admin/', admin.site.urls),
+    path('xadmin/', xadmin.site.urls)
 ]

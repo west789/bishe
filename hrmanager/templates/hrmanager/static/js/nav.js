@@ -118,7 +118,7 @@ var navs = [{
 },{
 	"title" : "404页面",
 	"icon" : "&#xe61c;",
-	"href" : "/hrmanager/page/error/",
+	"href" : "/hrmanager/error/",
 	"spread" : false
 },{
 	"title" : "系统基本参数",
