@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'hrmanager',
     'xadmin',
+    'reversion',
     'crispy_forms',
 ]
 

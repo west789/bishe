@@ -30,7 +30,7 @@ layui.config({
 			var index = layer.msg('查询中，请稍候',{icon: 16,time:false,shade:0.8});
             setTimeout(function(){
             	$.ajax({
-					url : "../../json/linksList.json",
+					url : "/static/json/linksList.json",
 					type : "get",
 					dataType : "json",
 					success : function(data){

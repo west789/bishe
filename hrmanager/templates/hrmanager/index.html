@@ -23,7 +23,7 @@
 				<a href="#" class="logo">人事考勤工资管理系统</a>
 				<!-- 搜索 -->
 				<div class="layui-form component">
-			        <select name="modules" lay-verify="required" lay-search="">
+			        <select name="modules" lay-verify="required" lay-search="" id="testSel">
 						<option value="">直接选择或搜索选择</option>
 						<option value="1">考勤查询</option>
 						<option value="2">请假查询</option>
@@ -97,7 +97,7 @@
 				<div class="layui-tab-content clildFrame">
 					<div class="layui-tab-item layui-show">
 {#						<iframe src="/hrmanager/page/main2.html"></iframe>#}
-						<iframe src=" /hrmanager/page/main2/"></iframe>
+						<iframe src=" /hrmanager/page/main2/" id="frameContent" name="frameContent"></iframe>
 					</div>
 				</div>
 			</div>

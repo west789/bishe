@@ -9,18 +9,21 @@
 
 	<body>
 		<blockquote class="layui-elem-quote news_search">
-			<div class="layui-input-inline">
-				<input type="text" class="layui-input" id="dataRange" placeholder=" 请输入日期 ">
-			</div>
-			<div class="layui-inline">
-				<input type="text" value="" placeholder="" class="layui-input search_input">
-			</div>
-			<div class="layui-inline">
-				<input type="text" value="" placeholder="请输入关键字" class="layui-input search_input">
-			</div>
-			<div class="layui-inline">
-				<a class="layui-btn search_btn">查询</a>
-			</div>
+        <form class="layui-form" action="">
+            <div class="layui-input-inline">
+
+                  <select name="status" lay-verify="required" id="statusSel" >
+                    <option value="">请选择</option>
+                    <option value="0">正常</option>
+                    <option value="1">缺勤</option>
+                    <option value="2">异常</option>
+                    <option value="3">请假</option>
+                    <option value="4">旷工</option>
+                    <option value="5">加班</option>
+                  </select>
+            </div>
+
+        </form>
 		</blockquote>
 		<table id="tbl_attendCheck" lay-filter="demo">
 			<script type="text/html" id="barDemo">

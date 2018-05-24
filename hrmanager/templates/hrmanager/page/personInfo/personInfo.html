@@ -13,38 +13,47 @@
 	<link rel="stylesheet" href="/static/css/font_eolqem241z66flxr.css" media="all" />
 	<link rel="stylesheet" href="/static/css/news.css" media="all" />
 </head>
+<style>
+    input:disabled {
+        color:#999;
+    }
+</style>
 <body class="childrenBody">
 	<blockquote class="layui-elem-quote news_search">
 		<div class="layui-inline">
-			<a class="layui-btn layui-btn-normal newsAdd_btn">编辑</a>
+			<a class="layui-btn layui-btn-normal" id="edit">编辑</a>
 		</div>
 	</blockquote>
-	<form class="layui-form" action="">
+
+	<form class="layui-form" action="/hrmanager/personSave/" method="post" id="form1">
+            {% csrf_token %}
 		<div class="layui-form-item">
 		    <div class="layui-inline">
 		      <label class="layui-form-label">工号</label>
 		      <div class="layui-input-inline">
-		        <input type="tel" name="employeeId"  autocomplete="off" class="layui-input">
+
+		        <input type="tel" name="employeeId" disabled="disabled"  autocomplete="off" class="layui-input" value="{{ id }}">
 		      </div>
 		    </div>
 		    <div class="layui-inline">
 		      <label class="layui-form-label">姓名</label>
 		      <div class="layui-input-inline">
-		        <input type="text" name="employeeName"  autocomplete="off" class="layui-input">
+		        <input type="text" name="employeeName" disabled="disabled" autocomplete="off" class="layui-input" value="{{ name }}">
 		      </div>
 		    </div>
 	    </div>
   		<div class="layui-form-item">
-		    <div class="layui-inline">
-		      <label class="layui-form-label">手机</label>
+            <div class="layui-inline">
+		      <label class="layui-form-label">职位</label>
 		      <div class="layui-input-inline">
-		        <input type="tel" name="phone" lay-verify="required|phone" autocomplete="off" class="layui-input">
+		        <input type="text" name="position" disabled="disabled" autocomplete="off" class="layui-input" value="{{ jobName }}">
 		      </div>
 		    </div>
+
 		    <div class="layui-inline">
 		      <label class="layui-form-label">邮箱</label>
 		      <div class="layui-input-inline">
-		        <input type="text" name="email" lay-verify="email" autocomplete="off" class="layui-input">
+		        <input type="text" name="email" disabled="disabled" autocomplete="off" class="layui-input able" value="{{ email }}">
 		      </div>
 		    </div>
 	    </div>
@@ -52,23 +61,23 @@
 		    <div class="layui-inline">
 		      <label class="layui-form-label">年龄</label>
 		      <div class="layui-input-inline">
-		        <input type="tel" name="age"  autocomplete="off" class="layui-input">
+		        <input type="tel" name="age" lay-verify="required|number" disabled="disabled" autocomplete="off" class="layui-input able" value="{{ age }}">
 		      </div>
 		    </div>
-		    <div class="layui-inline">
-		      <label class="layui-form-label">职位</label>
+		     <div class="layui-inline">
+		      <label class="layui-form-label">手机</label>
 		      <div class="layui-input-inline">
-		        <input type="text" name="position"  autocomplete="off" class="layui-input">
+		        <input type="tel" name="phone" lay-verify="required|phone" disabled="disabled" autocomplete="off" class="layui-input able"  value="{{ phone }}">
 		      </div>
 		    </div>
 	    </div>
 	    <div class="layui-input-block">
-	      <button class="layui-btn" lay-submit lay-filter="formDemo">立即提交</button>
+	      <button class="layui-btn" lay-submit lay-filter="formDemo" id="save" type="submit">立即提交</button>
 	      <button type="reset" class="layui-btn layui-btn-primary">重置</button>
 	    </div>
 	</form>
 	<div id="page"></div>
 	<script type="text/javascript" src="/static/layui/layui.js"></script>
-<!--	<script type="text/javascript" src="newsList.js"></script>
---></body>
+    <script type="text/javascript" src="/static/pageJs/personInfo.js"></script>
+</body>
 </html>

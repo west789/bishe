@@ -23,17 +23,17 @@
 });
 </script>
  <!--SIGN UP-->
- <h1>考勤助手</h1>
 <div class="login-form">
 	<div class="close"> </div>
 		<div class="head-info">
-			<label class="lbl-1"> </label>
-			<label class="lbl-2"> </label>
-			<label class="lbl-3"> </label>
+
+			<label>员工登录</label>
+
 		</div>
 			<div class="clear"> </div>
 	<div class="avtar">
 		<img src="/static/images/avtar.png" />
+
 	</div>
 			<form action="/hrmanager/login_handle/"  method="post">
                 {% csrf_token %}
@@ -42,7 +42,12 @@
                 <div class="signin">
                     <input type="submit" value="登录" >
                 </div>
+
 			</form>
+    <div class="avtar">
+
+        <a href="/xadmin/">管理员账户,点此登录……</a>
+	</div>
 {#            <form method="post" action="/hrmanager/uploadpic/" enctype="multipart/form-data">#}
 {#                {% csrf_token %}#}
 {#                <div>#}

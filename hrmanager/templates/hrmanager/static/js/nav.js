@@ -51,34 +51,34 @@ var navs = [{
 },{
 	"title" : "通讯录",
 	"icon" : "&#xe61c;",
-	"href" : "",
+	"href" : "/hrmanager/page/addressLIst/",
 	"spread" : false,
-	"children" : [
-		{
-			"title" : "总经理",
-			"icon" : "&#xe631;",
-			"href" : "",
-			"spread" : false
-		},
-		{
-			"title" : "人力部",
-			"icon" : "&#xe631;",
-			"href" : "",
-			"spread" : false
-		},
-		{
-			"title" : "财务部",
-			"icon" : "&#xe631;",
-			"href" : "",
-			"spread" : false
-		},
-		{
-			"title" : "技术部",
-			"icon" : "&#xe631;",
-			"href" : "",
-			"spread" : false
-		}
-	]
+	// "children" : [
+	// 	{
+	// 		"title" : "总经理",
+	// 		"icon" : "&#xe631;",
+	// 		"href" : "",
+	// 		"spread" : false
+	// 	},
+		// {
+		// 	"title" : "人力部",
+		// 	"icon" : "&#xe631;",
+		// 	"href" : "",
+		// 	"spread" : false
+		// },
+		// {
+		// 	"title" : "财务部",
+		// 	"icon" : "&#xe631;",
+		// 	"href" : "",
+		// 	"spread" : false
+		// },
+		// {
+		// 	"title" : "技术部",
+		// 	"icon" : "&#xe631;",
+		// 	"href" : "",
+		// 	"spread" : false
+		// }
+	//]
 },{
 	"title" : "工资管理",
 	"icon" : "&#xe614;",
@@ -88,20 +88,20 @@ var navs = [{
 		{
 			"title" : "工资统计",
 			"icon" : "&#xe62c;",
-			"href" : "/hrmanager/page/personInfo/",
+			"href" : "/hrmanager/page/payRecord/",
 			"spread" : false
 		},
 		{
 			"title" : "生成报表",
 			"icon" : "&#xe631;",
-			"href" : "/hrmanager/page/changePass/",
+			"href" : "/hrmanager/page/payReport/",
 			"spread" : false
 		}
 	]
 },{
 	"title" : "考勤统计",
 	"icon" : "&#xe62c;",
-	"href" : "/hrmanager/page/newsList/",
+	"href" : "/hrmanager/page/attendReport/",
 	"spread" : false
 },
 //{

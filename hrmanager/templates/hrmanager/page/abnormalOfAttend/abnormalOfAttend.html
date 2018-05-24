@@ -13,18 +13,19 @@
 				<a class="layui-btn layui-btn-normal newsAdd_btn">编辑</a>
 			</div>
 		</blockquote>
-		<form class="layui-form" action="">
+		<form class="layui-form" action="/hrmanager/leave_handle/" method="post">
+            {% csrf_token %}
 			<div class="layui-form-item">
 				<div class="layui-inline">
 					<label class="layui-form-label">工号</label>
 					<div class="layui-input-inline">
-						<input type="tel" name="phone" autocomplete="off" class="layui-input">
+						<input type="tel" name="employeeId" autocomplete="off" disabled="disabled" class="layui-input" value="{{ request.session.employeeId }}">
 					</div>
 				</div>
 				<div class="layui-inline">
 					<label class="layui-form-label">姓名</label>
 					<div class="layui-input-inline">
-						<input type="text" name="email" autocomplete="off" class="layui-input">
+						<input type="text" name="employeeName" autocomplete="off" class="layui-input" disabled="disabled" value="{{ request.session.username }}">
 					</div>
 				</div>
 			</div>
@@ -32,19 +33,24 @@
 				<div class="layui-inline">
 					<label class="layui-form-label">异常时间</label>
 					<div class="layui-input-inline">
-						<input type="text" class="layui-input" id="dateleave" placeholder=" 请输入日期 ">
-					</div>
-				</div>
-
-			</div>
-			<div class="layui-form-item">
-				<div class="layui-inline">
-					<label class="layui-form-label">异常原因</label>
-					<div class="layui-input-block">
-						<textarea class="layui-textarea" name="content" lay-verify="content" id="news_content"></textarea>
+						<input type="text" class="layui-input" id="dateleave" name="leaveRange" placeholder=" 请输入日期 ">
 					</div>
 				</div>
 			</div>
+{#			<div class="layui-form-item">#}
+{#				<div class="layui-inline">#}
+{#					<label class="layui-form-label">请假原因</label>#}
+{#					<div class="layui-input-block">#}
+{#						<textarea class="layui-textarea" name="content" lay-verify="content" id="news_content"></textarea>#}
+{#					</div>#}
+{#				</div>#}
+{#			</div>#}
+             <div class="layui-form-item layui-form-text">
+                <label class="layui-form-label">异常原因</label>
+                <div class="layui-input-block">
+                    <textarea name="leaveReason" placeholder="请输入内容" class="layui-textarea"></textarea>
+                </div>
+             </div>
 			<div class="layui-input-block">
 				<button class="layui-btn" lay-submit lay-filter="formDemo">立即提交</button>
 				<button type="reset" class="layui-btn layui-btn-primary">重置</button>

@@ -1,65 +1,47 @@
-layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'element'], function() {
+layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'element', 'jquery'], function() {
 	var table = layui.table;
 	var laydate = layui.laydate;
+	$ = layui.jquery;
+	var selectValue = $('#statusSel').val();
 	//第一个实例
 	table.render({
 		elem: '#tbl_attendCheck',
-		height: 315,
-		url: '/static/json/check.json', //数据接口
+		height: 500,
+		url: '/hrmanager/attend_handle/', //数据接口
+
 		page: true, //开启分页
 		limit: 20,
 		skin: 'line', //行边框风格
 		even: true, //开启隔行背景
 		//				    size: 'sm' ,//小尺寸的表格
+		//width : 1000,
+		id: 'testReload',
 		cols: [
 			[ //表头
 				{
-					field: 'id',
-					title: 'ID',
-					width: 80,
+					field: 'attendanceId',
+					title: '考勤编号',
+					width: 100,
 					sort: true,
 					fixed: 'left'
 				}, {
-					field: 'username',
-					title: '用户名',
-					width: 80
+					field: 'employeeName',
+					title: '员工姓名',
+					width: 200
 				}, {
-					field: 'sex',
-					title: '性别',
-					width: 80,
+					field: 'attendStartTime',
+					title: '签到时间',
+					width: 300,
 					sort: true
 				}, {
-					field: 'city',
-					title: '城市',
-					width: 80
-				}, {
-					field: 'sign',
-					title: '签名',
-					width: 177
-				}, {
-					field: 'experience',
-					title: '积分',
-					width: 80,
+					field: 'attendEndTime',
+					title: '签退时间',
+					width: 300,
 					sort: true
 				}, {
-					field: 'score',
-					title: '评分',
-					width: 80,
-					sort: true
-				}, {
-					field: 'classify',
-					title: '职业',
-					width: 80
-				}, {
-					field: 'wealth',
-					title: '财富',
-					width: 135,
-					sort: true
-				}, {
-					fixed: 'right',
-					width: 165,
-					align: 'center',
-					toolbar: '#barDemo'
+					field: 'attendStatus',
+					title: '考勤状态',
+					//width: 200
 				}
 			]
 		]
@@ -84,4 +66,20 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 			layer.msg('编辑操作');
 		}
 	});
+	active = {
+		reload :function () {
+			table.reload('testReload',{
+  			where:{
+  				key:{
+  					id:selectValue
+                }
+			}
+		}); //重载表格
+        }
+	}
+    $('#check').click(function () {
+		 var type = $(this).data('type');
+		 active[type] ? active[type].call(this) : '';
+
+    })
 });
