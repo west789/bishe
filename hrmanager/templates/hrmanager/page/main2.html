@@ -13,12 +13,28 @@
 		<link rel="stylesheet" href="/static/layui/css/layui.css" media="all" />
 		<!--<link rel="stylesheet" href="../css/font_eolqem241z66flxr.css" media="all" />-->
 		<link rel="stylesheet" href="/static/css/main.css" media="all" />
+        <style>
+            .panel{
+                width: 300px;
+                display: flex;
+                float: left;
+                padding-left: 40px;
+                margin-left: 100px;
+                {#margin-left: 150px;#}
+            }
+            .panel a{
+                display: block;
+                width: 400px;
+                {#height: 200px;#}
+
+            }
+        </style>
 	</head>
 
 	<body class="childrenBody">
 		<div class="panel_box row">
 			<div class="panel col">
-				<a href="javascript:;" data-url="page/message/message.html">
+				<a href="javascript:;" data-url="/hrmanager/page/attendCheck/">
 					<div class="panel_icon">
 						<i class="layui-icon" data-icon="&#xe618;">&#xe618;</i>
 					</div>
@@ -29,13 +45,13 @@
 				</a>
 			</div>
 			<div class="panel col">
-				<a href="javascript:;" data-url="page/user/allUsers.html">
+				<a href="javascript:;" data-url="/hrmanager/page/attendCheck/">
 					<div class="panel_icon" style="background-color:#009688;">
 						<i class="layui-icon" data-icon="&#xe60b;">&#xe60b;</i>
 					</div>
 					<div class="panel_word attendAbnormal">
 						<span></span>
-						<cite>考勤异常数</cite>
+						<cite>考勤异常</cite>
 					</div>
 				</a>
 			</div>
@@ -50,6 +66,7 @@
 					</div>
 				</a>
 			</div>
+            <div style="clear: both;"></div>
 
 		</div>
 
@@ -61,18 +78,29 @@
 				</div>
 			</div>
 			<div class="sysNotice col">
-				<table class="layui-table">
-					<colgroup>
-						<col width="150">
-						<col>
-					</colgroup>
-					<tbody>
-						<thead>
-							<td>异常时间</td>
-							<td>异常原因
-								<td>
-						</thead>
-					</tbody>
+				<table class="layui-table" id="table_abnormal">
+{#					<colgroup>#}
+{#						<col width="150">#}
+{#					</colgroup>#}
+{#					<tbody>#}
+{#                    <thead>#}
+{#                 <td>异常时间</td>#}
+{#                        <td>异常原因</td>#}
+{#                </thead>#}
+{#                    <tr>#}
+{#                        <td>异常时间</td>#}
+{#                        <td>异常原因</td>#}
+{#                    </tr>#}
+{#                    <tr>#}
+{#                        <td>异常时间</td>#}
+{#                        <td>{{ request.session.username }}</td>#}
+{#                    </tr>#}
+{#                    {% for item in abnormalData %}#}
+{#                        <td>{{ item.abnormalTime }}</td>#}
+{#                        <td>{{ item.abnormalReason }}<td>#}
+{#                    {% endfor %}#}
+{##}
+{#					</tbody>#}
 				</table>
 
 			</div>

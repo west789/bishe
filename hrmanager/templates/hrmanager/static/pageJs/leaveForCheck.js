@@ -3,7 +3,7 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 	var laydate = layui.laydate;
 	//第一个实例
 	table.render({
-		elem: '#tbl_attendCheck',
+		elem: '#tbl_leaveCheck',
 		height: 500,
 		url: '/hrmanager/leaveCheck_handle/', //数据接口
 		page: true, //开启分页
@@ -12,6 +12,7 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 		even: true, //开启隔行背景
 		cellMinWidth: 200,	
 		//width: 1200,
+		id: 'testReload',
 		cols: [
 			[ //表头
 				{
@@ -57,4 +58,19 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 		elem: '#dataRange',
 		range: true
 	}); //监听工具条
+	active = {
+		reload :function () {
+
+			table.reload('testReload',{
+  			where:{
+  				leavestatus:$('#leavestatus').val()
+			}
+		}); //重载表格
+        }
+	}
+    $('#check').click(function () {
+		 var type = $(this).data('type');
+		 active[type] ? active[type].call(this) : '';
+
+    })
 });

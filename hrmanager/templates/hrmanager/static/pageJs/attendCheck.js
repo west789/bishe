@@ -2,7 +2,7 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 	var table = layui.table;
 	var laydate = layui.laydate;
 	$ = layui.jquery;
-	var selectValue = $('#statusSel').val();
+
 	//第一个实例
 	table.render({
 		elem: '#tbl_attendCheck',
@@ -68,11 +68,10 @@ layui.use(['laydate', 'laypage', 'layer', 'table', 'carousel', 'upload', 'elemen
 	});
 	active = {
 		reload :function () {
+
 			table.reload('testReload',{
   			where:{
-  				key:{
-  					id:selectValue
-                }
+  				attendStatus:$('#statusSel').val()
 			}
 		}); //重载表格
         }

@@ -84,7 +84,11 @@
 		<div class="layui-side layui-bg-black">
 			<div class="user-photo">
 				<a class="img" title="我的头像" ><img src="/static/images/face.jpg"></a>
-				<p>你好！<span class="userName">{{ username }}</span>, 欢迎登录</p>
+				<p>你好！<span class="userName" style="font-size:18px;color:white">{{ username }}</span>
+                    {% if not request.session.employeeId  %}
+                       , 欢迎<a href="{% url 'main:login' %}" style="font-size:18px;color:#1b9dec">登录</a></p>
+                    {% endif %}
+
 			</div>
 			<div class="navBar layui-side-scroll"></div>
 		</div>
@@ -104,7 +108,7 @@
 		</div>
 		<!-- 底部 -->
 		<div class="layui-footer footer">
-			<p>copyright @2017 某软件公司<a href="http://www.mycodes.net/" target="_blank">欢迎使用</a></p>
+			<p>信息管理与信息系统1班<a href="http://www.mycodes.net/" target="_blank">PSL</a></p>
 		</div>
 	</div>
 

@@ -31,6 +31,7 @@
 <div class="container">
 
   <form action="" method="post" id="login-form">
+    {% csrf_token %}
     <div class="panel panel-default panel-single" id="panel-login">
     {% csrf_token %}
     {% block login_form %}
@@ -49,7 +50,7 @@
         <div class="controls clearfix">
         <div class="input-group input-group-lg">
           <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
-          <input class="form-control input-lg" id="id_username" maxlength="254" name="username" type="text" placeholder="{% trans "Username" %}">
+          <input class="form-control input-lg" id="id_username" maxlength="254" name="username" type="text" placeholder="{% trans "Username" %}" autocomplete="off">
         </div>
         {% for error in form.username.errors %}
             <p id="error_{{ forloop.counter }}_{{ field.auto_id }}" class="text-danger help-block">{{ error }}</p>

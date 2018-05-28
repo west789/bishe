@@ -86,7 +86,8 @@ class leaveInfo(models.Model):
     leaveInfoId = models.AutoField(primary_key=True, verbose_name="请假编号")
     employeeId = models.ForeignKey("employeeInfo", on_delete=models.CASCADE, verbose_name="员工编号")
     #departmentId = models.ForeignKey('departmentInfo', on_delete=models.CASCADE, verbose_name="部门编号")
-    leaveStatus = models.IntegerField(default=0, verbose_name="审批状态")
+    leaveStatus = models.IntegerField(default=1,verbose_name="审批状态")
+    leaveStatus1 = models.ForeignKey('confirmInfo', on_delete=models.CASCADE,default=2, verbose_name='审批情况')
     leaveReason = models.TextField(verbose_name="请假原因")
     leaveTotalDays = models.IntegerField(default=1, verbose_name="请假天数")
     leaveTime = models.CharField(max_length=200, verbose_name="请假时间")
@@ -110,4 +111,15 @@ class paymentInfo(models.Model):
     class Meta():
         db_table = 'paymentinfo'
         verbose_name = '工资记录表'
+        verbose_name_plural = verbose_name
+
+#审批状态表
+class confirmInfo(models.Model):
+    confirmInfoId = models.AutoField(primary_key=True, verbose_name='状态编号')
+    confirmStatus = models.CharField(max_length=20, verbose_name='审批状态')
+    def __str__(self):
+        return self.confirmStatus
+    class Meta():
+        db_table = 'confirminfo'
+        verbose_name = '审批信息'
         verbose_name_plural = verbose_name

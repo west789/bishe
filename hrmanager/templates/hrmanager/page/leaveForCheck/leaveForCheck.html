@@ -5,21 +5,34 @@
 		<meta charset="utf-8">
 		<title>考勤查询</title>
 		<link rel="stylesheet" href="/static/layui2/css/layui.css" media="all" />
+        <script type="text/javascript" src="/static/js/jquery.min.js" ></script>
 	</head>
-
+<script>
+    function show(v){
+        alert(v);
+    }
+</script>
 	<body>
-		<blockquote class="layui-elem-quote news_search">
-			<div class="layui-input-inline">
-				<input type="text" class="layui-input" id="userName" placeholder=" 请输入审批状态 ">
+    <blockquote class="layui-elem-quote news_search">
+		<form class="layui-form" action="">
+            <div class="layui-input-inline">
+			    <select name="leavestatus" lay-verify="required" id="leavestatus" onchange="show(this.options[this.options.selectedIndex].value)" >
+                    <option value="-1">请选择</option>
+                    <option value="1">未审批</option>
+                    <option value="2">一级审批完成</option>
+                    <option value="3">审批完成</option>
+                </select>
 			</div>
-			<div class="layui-inline">
-				<a class="layui-btn search_btn">查询</a>
-			</div>
-		</blockquote>
-		<table id="tbl_attendCheck" lay-filter="demo">
-			
-		</table>
-
+            <input type="button" class="layui-btn" value="查询" id="check" data-type="reload">
+		</form>
+    </blockquote>
+    <table id="tbl_leaveCheck" lay-filter="demo">
+			<script type="text/html" id="barDemo">
+				<a class="layui-btn layui-btn-primary layui-btn-xs" lay-event="detail"><i class="iconfont icon-edit"></i>查看</a>
+				<a class="layui-btn layui-btn-xs" lay-event="edit">编辑</a>
+				<a class="layui-btn layui-btn-danger layui-btn-xs" lay-event="del">删除</a>
+			</script>
+    </table>
 		<script type="text/javascript" src="/static/layui2/layui.js"></script>
 		<script type="text/javascript" src="/static/pageJs/leaveForCheck.js"></script>
 	</body>

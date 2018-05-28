@@ -2,46 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed253bae-ceaf-4ed8-b67a-03e35d67d69a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/adminx.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/0002_auto_20180521_2119.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/0003_remove_leaveinfo_departmentid.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/migrations/0004_leaveinfo_leavestatus.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressLIst.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/echarts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/personInfo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/80.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/81.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/82.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/83.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/84.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/85.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/86.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/87.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/88.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/89.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/90.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/91.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/92.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/93.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/94.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/images/image1/95.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendReport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payRecord.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payReport.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/bishe/settings.py" afterPath="$PROJECT_DIR$/bishe/settings.py" />
       <change beforePath="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/blocks/model_list.nav_form.search_form.html" afterPath="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/blocks/model_list.nav_form.search_form.html" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/__init__.py" afterPath="$PROJECT_DIR$/hrmanager/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/apps.py" afterPath="$PROJECT_DIR$/hrmanager/apps.py" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/migrations/0002_auto_20180517_2054.py" afterPath="$PROJECT_DIR$/hrmanager/migrations/0001_initial.py" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/migrations/0003_auto_20180517_2132.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/login.html" afterPath="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/login.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/adminx.py" afterPath="$PROJECT_DIR$/hrmanager/adminx.py" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/migrations/0001_initial.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/migrations/0002_auto_20180521_2119.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/migrations/0003_remove_leaveinfo_departmentid.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/migrations/0004_leaveinfo_leavestatus.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/hrmanager/models.py" afterPath="$PROJECT_DIR$/hrmanager/models.py" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/userInfo.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/user/userInfo.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressLIst.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressList.html" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/main.css" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/main.css" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/abnormalOfAttend.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/abnormalOfAttend.js" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js" />
+      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/address.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/addressList.js" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js" />
       <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js" afterPath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js" />
-      <change beforePath="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsList.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/hrmanager/urls.py" afterPath="$PROJECT_DIR$/hrmanager/urls.py" />
       <change beforePath="$PROJECT_DIR$/hrmanager/views.py" afterPath="$PROJECT_DIR$/hrmanager/views.py" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,11 +66,134 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="payReport.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payReport.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payReport.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5145">
+              <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="46" />
+              <folding>
+                <marker date="1527361127300" expanded="true" signature="868:882" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addressList.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1890">
+              <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addressList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/addressList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrmanager/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1779">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#333#456#0" expanded="false" />
+                <element signature="e#482#532#0" expanded="false" />
+                <element signature="e#558#599#0" expanded="false" />
+                <element signature="e#630#1334#0" expanded="false" />
+                <element signature="e#1365#1420#0" expanded="false" />
+                <element signature="e#1452#1511#0" expanded="false" />
+                <element signature="e#1543#1602#0" expanded="false" />
+                <element signature="e#1639#1708#0" expanded="false" />
+                <element signature="e#1742#1805#0" expanded="false" />
+                <element signature="e#1835#1886#0" expanded="false" />
+                <element signature="e#1915#1964#0" expanded="false" />
+                <element signature="e#1990#2024#0" expanded="false" />
+                <element signature="e#2060#2127#0" expanded="false" />
+                <element signature="e#2157#2210#0" expanded="false" />
+                <element signature="e#2240#2293#0" expanded="false" />
+                <element signature="e#2326#2386#0" expanded="false" />
+                <element signature="e#2418#2932#0" expanded="false" />
+                <element signature="e#2544#2813#0" expanded="false" />
+                <element signature="e#2971#3393#0" expanded="false" />
+                <element signature="e#3158#3324#0" expanded="false" />
+                <element signature="e#3420#3498#0" expanded="false" />
+                <element signature="e#3528#3829#0" expanded="false" />
+                <element signature="e#3565#3782#0" expanded="false" />
+                <element signature="e#3699#3747#0" expanded="false" />
+                <element signature="e#3875#4541#0" expanded="false" />
+                <element signature="e#4183#4383#0" expanded="false" />
+                <element signature="e#4580#4971#0" expanded="false" />
+                <element signature="e#5001#5222#0" expanded="false" />
+                <element signature="e#5264#6261#0" expanded="false" />
+                <element signature="e#5644#6146#0" expanded="false" />
+                <element signature="e#6301#6774#0" expanded="false" />
+                <element signature="e#6820#7855#0" expanded="false" />
+                <element signature="e#7189#7733#0" expanded="false" />
+                <element signature="e#7896#8022#0" expanded="false" />
+                <element signature="e#8054#8734#0" expanded="false" />
+                <element signature="e#8229#8614#0" expanded="false" />
+                <element signature="e#8873#9691#0" expanded="false" />
+                <element signature="e#9809#9978#0" expanded="false" />
+                <element signature="e#10085#10631#0" expanded="false" />
+                <marker date="1527359491106" expanded="false" signature="9691:9692" ph="select emplo... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hrmanager/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bishe/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hrmanager/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -67,92 +201,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bishe/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1575">
-              <caret line="45" column="19" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="45" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3465">
-              <caret line="99" column="78" lean-forward="false" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1820">
-              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attendCheck.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="910">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="changePass.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1855">
-              <caret line="53" column="41" lean-forward="false" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addressLIst.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressLIst.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-563">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linksList.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#629#661#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,8 +219,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -181,13 +237,19 @@
       <find>personInfo.html</find>
       <find>family</find>
       <find>order</find>
-      <find>searchbar</find>
       <find>opt</find>
       <find>search_fields</find>
       <find>model_list.nav_form.search_form</find>
       <find>block_nav_form</find>
       <find>Edit</find>
       <find>panel</find>
+      <find>hrmanager.leaveinfo</find>
+      <find>searchbar</find>
+      <find>navbar-form navbar-left</find>
+      <find>欢迎</find>
+      <find>attendRecordCount</find>
+      <find>navBar</find>
+      <find>alert</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -202,15 +264,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/jquery.min.js" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/login.css" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/404.html" />
-        <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/extra_app/xadmin/models.py" />
-        <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/util.py" />
-        <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/models.py" />
-        <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/views/base.py" />
-        <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/views/list.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/views/dashboard.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/plugins/filters.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/xadmin/plugins/bookmark.py" />
@@ -223,36 +276,45 @@
         <option value="$PROJECT_DIR$/bishe/urls.py" />
         <option value="$PROJECT_DIR$/hrmanager/apps.py" />
         <option value="$PROJECT_DIR$/hrmanager/__init__.py" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js" />
-        <option value="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/blocks/model_list.nav_form.search_form.html" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsList.js" />
-        <option value="$PROJECT_DIR$/bishe/settings.py" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js" />
-        <option value="$PROJECT_DIR$/hrmanager/models.py" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/personInfo.js" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/abnormalOfAttend.js" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressLIst.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressList.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html" />
+        <option value="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/blocks/model_list.nav_form.search_form.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html" />
+        <option value="$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/login.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payRecord.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/main.css" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html" />
+        <option value="$PROJECT_DIR$/hrmanager/models.py" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/addressList.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendReport.js" />
         <option value="$PROJECT_DIR$/hrmanager/adminx.py" />
         <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html" />
         <option value="$PROJECT_DIR$/hrmanager/views.py" />
         <option value="$PROJECT_DIR$/hrmanager/urls.py" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js" />
-        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressLIst.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html" />
+        <option value="$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payReport.js" />
+        <option value="$PROJECT_DIR$/bishe/settings.py" />
       </list>
     </option>
   </component>
@@ -263,8 +325,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2391" />
-    <option name="y" value="-9" />
+    <option name="x" value="-256" />
+    <option name="y" value="22" />
     <option name="width" value="2418" />
     <option name="height" value="1318" />
   </component>
@@ -284,7 +346,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,7 +367,19 @@
             <path>
               <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
               <item name="bishe" type="462c0819:PsiDirectoryNode" />
+              <item name="extra_app" type="462c0819:PsiDirectoryNode" />
+              <item name="xadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bishe" type="462c0819:PsiDirectoryNode" />
               <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bishe" type="462c0819:PsiDirectoryNode" />
+              <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
@@ -326,7 +400,7 @@
               <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
@@ -334,23 +408,14 @@
               <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="attendCheck" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="hrmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="userInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="pageJs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,21 +424,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="searchbar&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DjangoProject\bishe\extra_app\xadmin" />
+      <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static\images\image1" />
       <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static\js" />
       <recent name="F:\DjangoProject\bishe\extra_app" />
       <recent name="F:\DjangoProject\bishe" />
-      <recent name="F:\DjangoProject\bishe\template" />
-      <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\DjangoProject\bishe\extra_app\xadmin\templates\xadmin" />
+      <recent name="F:\DjangoProject\bishe\extra_app\xadmin\templates" />
       <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager" />
       <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static\pageJs" />
       <recent name="F:\DjangoProject\bishe\hrmanager\templates\hrmanager\static\images" />
-      <recent name="F:\DjangoProject\bishe\templates\hrmanager\static" />
-      <recent name="F:\DjangoProject\bishe\template" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -455,25 +521,33 @@
       <option name="project" value="LOCAL" />
       <updated>1526708980198</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5.24修改前提交">
+      <created>1527160025089</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527160025089</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3766347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868353" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955536" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3435048" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15486348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23489168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24847429" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20600858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34873584" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34873584" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -495,34 +569,35 @@
     <MESSAGE value="增加前端页面" />
     <MESSAGE value="5.17增加模型类" />
     <MESSAGE value="5.19增加xadmin" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.19增加xadmin" />
+    <MESSAGE value="5.24修改前提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.24修改前提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/hrmanager/views.py</url>
-          <line>110</line>
+          <line>130</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/hrmanager/views.py</url>
-          <line>129</line>
+          <line>152</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/hrmanager/views.py</url>
-          <line>133</line>
+          <line>156</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/hrmanager/views.py</url>
-          <line>138</line>
+          <line>161</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/hrmanager/views.py</url>
-          <line>140</line>
+          <line>163</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
@@ -575,145 +650,59 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/plugins/topnav.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1351">
-          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/views/form.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="112" column="29" lean-forward="true" selection-start-line="112" selection-start-column="29" selection-end-line="112" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/locale/es_MX/LC_MESSAGES/django.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="1341" column="46" lean-forward="false" selection-start-line="1341" selection-start-column="46" selection-end-line="1341" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/locale/ja/LC_MESSAGES/django.po">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-991">
-          <caret line="1360" column="9" lean-forward="false" selection-start-line="1360" selection-start-column="9" selection-end-line="1360" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/quick_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/model_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="105">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="35" column="136" lean-forward="false" selection-start-line="35" selection-start-column="136" selection-end-line="35" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="108" column="51" lean-forward="true" selection-start-line="108" selection-start-column="51" selection-end-line="108" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2534">
+          <caret line="75" column="2" lean-forward="false" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/app_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/edit_inline/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-826">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/views/quick_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/views/edit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2415">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1365">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1931">
-          <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/handlers/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="127" column="75" lean-forward="true" selection-start-line="127" selection-start-column="75" selection-end-line="127" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="129" column="1" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="129" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishe/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/check.json">
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/newsAdd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="271" column="0" lean-forward="false" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -724,229 +713,352 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/leaveForCheck.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="84" column="15" lean-forward="false" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/askForLeave/askForLeave.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/askForLeave.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/abnormalOfAttend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/changePass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="18" column="62" lean-forward="false" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/personInfo/personInfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1578">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/echarts.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6195">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html">
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="23" column="86" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/leaveForCheck/leaveForCheck.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/json/linksList.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/linksList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4235">
-          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        <state relative-caret-position="490">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="61" column="101" lean-forward="false" selection-start-line="61" selection-start-column="101" selection-end-line="61" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/abnormalOfAttend/abnormalOfAttend.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="35" column="135" lean-forward="false" selection-start-line="35" selection-start-column="135" selection-end-line="35" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payRecord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2765">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-826">
-          <caret line="65" column="6" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="6" />
+        <state relative-caret-position="210">
+          <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrmanager/adminx.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="69" column="52" lean-forward="false" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xadmin/sites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3604">
+          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/base_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/leftNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/bodyTab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="40" column="108" lean-forward="false" selection-start-line="40" selection-start-column="108" selection-end-line="40" selection-end-column="108" />
+          <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/widgets/chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/layout/field_value.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/layout/field_value_td.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/templates/xadmin/login.html" />
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1575">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_app/xadmin/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3115">
+          <caret line="89" column="31" lean-forward="false" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payRecord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2157">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishe/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/attendReport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#1284#1497#0" expanded="false" />
+            <element signature="e#1316#1479#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/addressList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/payment/payReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <marker date="1527361127300" expanded="true" signature="868:882" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/pageJs/payReport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5145">
+          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrmanager/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2345">
-          <caret line="67" column="15" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="15" />
+        <state relative-caret-position="-1779">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#333#456#0" expanded="false" />
+            <element signature="e#482#532#0" expanded="false" />
+            <element signature="e#558#599#0" expanded="false" />
+            <element signature="e#630#1334#0" expanded="false" />
+            <element signature="e#1365#1420#0" expanded="false" />
+            <element signature="e#1452#1511#0" expanded="false" />
+            <element signature="e#1543#1602#0" expanded="false" />
+            <element signature="e#1639#1708#0" expanded="false" />
+            <element signature="e#1742#1805#0" expanded="false" />
+            <element signature="e#1835#1886#0" expanded="false" />
+            <element signature="e#1915#1964#0" expanded="false" />
+            <element signature="e#1990#2024#0" expanded="false" />
+            <element signature="e#2060#2127#0" expanded="false" />
+            <element signature="e#2157#2210#0" expanded="false" />
+            <element signature="e#2240#2293#0" expanded="false" />
+            <element signature="e#2326#2386#0" expanded="false" />
+            <element signature="e#2418#2932#0" expanded="false" />
+            <element signature="e#2544#2813#0" expanded="false" />
+            <element signature="e#2971#3393#0" expanded="false" />
+            <element signature="e#3158#3324#0" expanded="false" />
+            <element signature="e#3420#3498#0" expanded="false" />
+            <element signature="e#3528#3829#0" expanded="false" />
+            <element signature="e#3565#3782#0" expanded="false" />
+            <element signature="e#3699#3747#0" expanded="false" />
+            <element signature="e#3875#4541#0" expanded="false" />
+            <element signature="e#4183#4383#0" expanded="false" />
+            <element signature="e#4580#4971#0" expanded="false" />
+            <element signature="e#5001#5222#0" expanded="false" />
+            <element signature="e#5264#6261#0" expanded="false" />
+            <element signature="e#5644#6146#0" expanded="false" />
+            <element signature="e#6301#6774#0" expanded="false" />
+            <element signature="e#6820#7855#0" expanded="false" />
+            <element signature="e#7189#7733#0" expanded="false" />
+            <element signature="e#7896#8022#0" expanded="false" />
+            <element signature="e#8054#8734#0" expanded="false" />
+            <element signature="e#8229#8614#0" expanded="false" />
+            <element signature="e#8873#9691#0" expanded="false" />
+            <element signature="e#9809#9978#0" expanded="false" />
+            <element signature="e#10085#10631#0" expanded="false" />
+            <marker date="1527359491106" expanded="false" signature="9691:9692" ph="select emplo... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishe/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrmanager/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="47" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/static/js/nav.js">
+    <entry file="file://$PROJECT_DIR$/bishe/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1855">
-          <caret line="53" column="41" lean-forward="false" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/links/linksList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3465">
-          <caret line="99" column="78" lean-forward="false" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="45" column="19" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="45" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/changePass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/attendCheck/attendCheck.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/main2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1820">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrmanager/templates/hrmanager/page/userInfo/addressLIst.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-563">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/hrmanager/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>

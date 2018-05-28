@@ -51,7 +51,7 @@ var navs = [{
 },{
 	"title" : "通讯录",
 	"icon" : "&#xe61c;",
-	"href" : "/hrmanager/page/addressLIst/",
+	"href" : "/hrmanager/page/addressList/",
 	"spread" : false,
 	// "children" : [
 	// 	{
@@ -91,12 +91,12 @@ var navs = [{
 			"href" : "/hrmanager/page/payRecord/",
 			"spread" : false
 		},
-		{
-			"title" : "生成报表",
-			"icon" : "&#xe631;",
-			"href" : "/hrmanager/page/payReport/",
-			"spread" : false
-		}
+		// {
+		// 	"title" : "生成报表",
+		// 	"icon" : "&#xe631;",
+		// 	"href" : "/hrmanager/page/payReport/",
+		// 	"spread" : false
+		// }
 	]
 },{
 	"title" : "考勤统计",

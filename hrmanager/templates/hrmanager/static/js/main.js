@@ -13,12 +13,21 @@ layui.config({
 
 
 	//正常出勤数
-	$.get("/hrmanager/attendRecordCount/",
-		function(data){
-			$(".attendNormal span").text(data.attendNormal);
-			$(".attendAbnormal span").text(data.attendAbnormal);
-		}
-	)
+    $.get("/hrmanager/attendRecordCount/",
+        function (data) {
+            $(".attendNormal span").text(data.attendNormal);
+            $(".attendAbnormal span").text(data.attendAbnormal);
+            var obj = data.abnormalData
+			var inhtml = '<colgroup><col width="150"></colgroup><tbody><thead><td>异常时间</td><td>异常原因</td><td></td></thead>';
+            $.each(obj, function (item, value) {
+
+                inhtml += '<tr><td>' + value.abnormalTime + '</td><td>' + value.abnormalReason + '</td><td><a  href="/hrmanager/page/attendCheck/" style="color: #1b9dec">查看</a></td></tr>'
+
+            })
+            inhtml += '</tbody>';
+            $("#table_abnormal").html(inhtml);
+        }
+    )
 
 	//用户数
 	$.get("../json/usersList.json",

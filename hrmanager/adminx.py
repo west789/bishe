@@ -38,8 +38,18 @@ class attendRecordAdmin(object):
 
 
 class leaveInfoAdmin(object):
-    list_display = ["leaveInfoId", "employeeId",  "leaveReason", "leaveTime","leaveTotalDays","leaveStatus", "createTime" ]
-    ordering = ("leaveInfoId",)
+    list_display = ["leaveInfoId", "employeeId",  "leaveReason", "leaveTime","leaveTotalDays","leaveStatus1", "createTime" ]
+    ordering = ("leaveStatus1",)
+    search_fields = ("leaveStatus1__confirmStatus",)
+    show_detail_fields = ["leaveStatus1"]  # 设置详情标识
+    list_bookmarks = [{
+        "title": "未审批",
+        "query": {"leaveStatus1__confirmStatus__contains": "未审批"},
+        # "query": {"jobNameId__gt": '105'},
+        "order": ("leaveInfoId",),
+        "cols": ["leaveInfoId", "leaveStatus1"],
+    }]
+
 
 class departmentInfoAdmin(object):
     list_display = ["departmentId", "departmentName", "departmentManager", ]
@@ -50,7 +60,11 @@ class departmentInfoAdmin(object):
 class paymentInfoAdmin(object):
     list_display = ["paymentInfoId", "employeeId", "attendRecordInfo", "payment", "createTime" ]
     ordering = ("paymentInfoId",)
-
+    data_charts = {
+        "user_count": {'title': "工资统计", "x-field": "employeeId_id", "y-field": ("payment",),
+                       "order": ('employeeId',)},
+        # "avg_count": {'title': u"Avg Report", "x-field": "date", "y-field": ('avg_count',), "order": ('date',)}
+    }
 
 class jobNameInfoAdmin(object):
     list_display = ['jobNameId','jobName']    #显示的字段
@@ -68,6 +82,8 @@ class jobNameInfoAdmin(object):
         "order": ("jobNameId",),
         "cols": ["jobNameId", "jobName"],
     }]
+
+
 class BaseSetting(object):
     enable_themes = True
     use_bootswatch = True
@@ -77,8 +93,9 @@ class GlobalSettings(object):
     site_title = '人事考勤管理系统'     #首页头
     site_footer = '庞绍良'             #首页尾
     menu_style = 'default'           # "accordion"折叠菜单
+    # global_search_models = ['V_UserInfo', 'UserDistrict']
     # global_models_icon = {
-    #     V_UserInfo: "glyphicon glyphicon-user", UserDistrict: "fa fa-cloud"
+    #     'V_UserInfo': "glyphicon glyphicon-user", 'UserDistrict': "fa fa-cloud"
     # }  # 设置models的全局图标
 xadmin.site.register(employeeInfo, employeeInfoAdmin)
 xadmin.site.register(attendRecord, attendRecordAdmin)

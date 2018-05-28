@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>通讯录</title>
+    <link rel="stylesheet" href="/static/layui2/css/layui.css" media="all" />
+    <style>
+        .layui-card {
+            margin: 30px 20px;
+            height: 180px;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            box-shadow: 0 0 8px #aaa;
+        }
+        .clearfix:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .layui-card-left {
+            box-sizing: border-box;
+            float: left;
+            width: 40%;
+            height: 100%;
+            text-align: center;
+            border-right: 1px solid #eee;
+        }
+        .layui-card-left img {
+            width: 80%;
+            margin-top: 5px;
+        }
+        .layui-card-right {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            float: left;
+            padding-left: 10px;
+            width: 60%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            line-height: 40px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+{% for item in data %}
+    <div class="layui-col-md4">
+
+        <div class="layui-card clearfix">
+            <div class="layui-card-left"><img src="/static/images/image1/{{ item.imageName }}.jpg" alt=""></div>
+            <div class="layui-card-right">
+                <div>
+                    <p>姓名:<span>{{ item.employeeName }}</span></p>
+                    <p>手机:<span>{{ item.phoneNumber }}</span></p>
+                    <p>邮箱:<span>{{ item.email }}</span></p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+{% endfor %}
+{#    </div><div class="layui-col-md3">#}
+{##}
+{#        <div class="layui-card clearfix">#}
+{#            <div class="layui-card-left"><img src="/static/images/image1/80.jpg" alt=""></div>#}
+{#            <div class="layui-card-right">#}
+{#                <div>#}
+{#                    <p>姓名:<span>庞绍良</span></p>#}
+{#                    <p>手机:<span>1434465343</span></p>#}
+{#                    <p>邮箱:<span>2435w2@qq.com</span></p>#}
+{#                </div>#}
+{##}
+{#            </div>#}
+{#        </div>#}
+{#    </div>#}
+<script type="text/javascript" src="/static/layui2/layui.js"></script>
+<script type="text/javascript" src="/static/pageJs/addressList.js"></script>
+</body>
+
+</html>
