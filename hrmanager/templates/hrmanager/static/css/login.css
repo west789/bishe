@@ -88,6 +88,7 @@ h1 {
   font-weight: 600;
   font-size: 2em;
   color: #fff;
+	/*color:#ac2925;*/
   background: #23232e;
   height: 50px;
 	border-top-left-radius: 10px;
@@ -114,7 +115,7 @@ input[type="text"] {
  input[type="password"]{
 	  width: 70%;
 	  padding: 1em 2em 1em 3em;
-	  color: #dd3e3e;
+	  color: #1b9dec;
 	  font-size: 18px;
 	  outline: none;
 	  background: url(../images/key.png) no-repeat 10px 23px;

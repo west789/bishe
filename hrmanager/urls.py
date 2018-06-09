@@ -31,6 +31,9 @@ urlpatterns = [
     path('leaveCheck_handle/', views.leaveCheck_handle), #请假查询
     path('get_payment/', views.get_payment),  #获取工资信息
     path('get_paycount/', views.get_paycount),  #获取出勤总数
-    path('paymentAll/', views.paymentAll)   #获取所有的工资信息
+    path('paymentAll/', views.paymentAll),  #获取所有的工资信息
+
+    path('sayHello/', views.sayHello),  #测试celery
+    path('attendObvious/', views.attendObvious), #考勤日历实时数据
 ]
 app_name = 'hrmanager'

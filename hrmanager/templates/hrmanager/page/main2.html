@@ -11,8 +11,11 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="format-detection" content="telephone=no">
 		<link rel="stylesheet" href="/static/layui/css/layui.css" media="all" />
+        <link rel="stylesheet" href="/static/layui2/css/layui.css" media="all" />
 		<!--<link rel="stylesheet" href="../css/font_eolqem241z66flxr.css" media="all" />-->
 		<link rel="stylesheet" href="/static/css/main.css" media="all" />
+        <link href="/static/css/Calendar.css" rel="stylesheet" type="text/css"/>
+        <script src="/static/js/date.js"></script>
         <style>
             .panel{
                 width: 300px;
@@ -56,7 +59,7 @@
 				</a>
 			</div>
 			<div class="panel col">
-				<a href="javascript:;" data-url="page/img/images.html">
+				<a href="javascript:;" data-url="/hrmanager/error/">
 					<div class="panel_icon" style="background-color:#5FB878;">
 						<i class="layui-icon" data-icon="&#xe63a;">&#xe63a;</i>
 					</div>
@@ -74,10 +77,17 @@
 			<div class="sysNotice col">
 				<blockquote class="layui-elem-quote title">考勤日历</blockquote>
 				<div class="layui-elem-quote layui-quote-nm">
-
+                    <div class="div_changeMonth"><input type="button" class="layui-btn" style="float: left"  id="upMonth" value="上个月">
+                        <input type="button" class="layui-btn" style="float: right" id="nextMonth" value="下个月"></div>
+                    <div style="clear: both"></div>
+{#                    <div class="div_calendar_title"><h1>考勤日历</h1></div>#}
+                    <div id="calendar_div" class="div_calendar">
+                    </div>
+                    <div id="current_date_label" class="div_target_label"></div>
 				</div>
 			</div>
 			<div class="sysNotice col">
+                <blockquote class="layui-elem-quote title">异常记录</blockquote>
 				<table class="layui-table" id="table_abnormal">
 {#					<colgroup>#}
 {#						<col width="150">#}
@@ -105,7 +115,7 @@
 
 			</div>
 		</div>
-
+        <script src="/static/js/attendanceCalendar.js"></script>
 		<script type="text/javascript" src="/static/layui/layui.js"></script>
 		<script type="text/javascript" src="/static/js/main.js"></script>
 	</body>

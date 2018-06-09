@@ -7,11 +7,15 @@ import os
 from django.core import serializers
 import json
 from django.db.models import Q
+from .task import *
 # Create your views here.
 
 def index(request):
-    username = request.session.get('username', default = '未登录')
-    return render(request, 'index.html', {"username":username})
+    if request.session.get('employeeId'):
+        username = request.session.get('username', default = '未登录')
+        return render(request, 'index.html', {"username":username})
+    else:
+        return redirect(reverse("main:login"))
 
 def login(request):
     return render(request, 'page/userInfo/login.html')
@@ -262,6 +266,25 @@ from attendrecord INNER JOIN employeeinfo on attendrecord.employeeId_id=employee
 def paymentAll(request):
     paymentData = serializers.serialize('json', paymentInfo.objects.all())
     context = {"code":0, "paymentData":paymentData}
+    return JsonResponse(context)
+
+#测试celery
+def sayHello(request):
+    sayHi.delay()
+    return HttpResponse("Hello world")
+
+
+#个人考勤首页日历显示字段
+def attendObvious(request):
+    employeeid = request.session.get('employeeId')
+    attendObInfo = attendRecord.objects.filter(employeeId_id=employeeid)
+    infoList = []
+    for item in attendObInfo:
+        itemDict = {}
+        itemDict['attendTime']=item.attendStartTime.strftime("%Y-%m-%d")
+        itemDict["attendStatusId"]=item.attendanceStatusId_id
+        infoList.append(itemDict)
+    context={"code":200, "infoList":infoList}
     return JsonResponse(context)
 
 

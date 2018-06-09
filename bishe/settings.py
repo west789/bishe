@@ -12,6 +12,9 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 
 import os
 import sys
+
+
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -42,6 +45,9 @@ INSTALLED_APPS = [
     'xadmin',
     'reversion',
     'crispy_forms',
+    'djcelery',  #配置celery应用
+
+
 ]
 
 MIDDLEWARE = [
@@ -137,3 +143,9 @@ STATICFILES_DIRS = (
 )
 MEDIA_URL = '/media/'
 MEDIA_ROOT=os.path.join(BASE_DIR,"hrmanager/templates/hrmanager/static/media")
+
+#celery配置
+import djcelery
+djcelery.setup_loader()
+BROKER_URL = 'redis://127.0.0.1:6379/0'
+CELERY_IMPORTS = ('hrmanager.task')
